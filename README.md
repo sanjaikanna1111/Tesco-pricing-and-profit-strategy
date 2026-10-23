@@ -17,9 +17,11 @@ Rather than recommending broad price cuts, the analysis focuses on a disciplined
 
 ### Key Insights
 
-- Sales grew faster than adjusted operating profit (+4.6% vs +0.8%), creating a 3.8pp gap that warrants closer examination of pricing returns
-- Public results support the case for price investment but **cannot prove** that pricing alone caused the margin pressure
-- A structured pilot process (Design → Test → Scale/Stop) is recommended before broader rollout
+- Sales growth significantly outpaced profit growth (+4.6% vs +0.8%), creating a 3.8 percentage point gap that raises questions about the return on recent price investment.
+- Strong volume and share gains (UK LFL +4.2%, market share +24bps to 28.5%) indicate that customers are responding to Tesco’s value offer — but the profit impact of that investment remains unclear from public data.
+- While management has funded customer investment through Save to Invest (£535m), public disclosures do not isolate the incremental contribution or net profit effect of individual pricing actions.
+- A disciplined test-and-learn approach (Design → Test → Scale/Stop) is required to ensure future price investment improves, rather than dilutes, sustainable profitability.
+
 
 ### Approach
 
