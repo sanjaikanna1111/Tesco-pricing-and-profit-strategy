@@ -1,4 +1,3 @@
-# Tesco-pricing-and-profit-strategy
 # Tesco: Pricing, Profitability & Competitive Strategy
 
 **Strategy Review | October 2026**
