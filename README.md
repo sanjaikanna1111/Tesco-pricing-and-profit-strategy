@@ -1,6 +1,6 @@
 # Tesco: Pricing, Profitability & Competitive Strategy
 
-**Strategy Review | October 2026**
+**Strategy Review**
 
 How can Tesco remain price-competitive while protecting sustainable profits?
 
