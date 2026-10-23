@@ -33,7 +33,6 @@ Rather than recommending broad price cuts, the analysis focuses on a disciplined
 
 ### Deliverable
 
-- [View PDF](docs/Tesco_Pricing_Profit_Strategy.pdf)
 - [Download PowerPoint](https://github.com/sanjaikanna1111/Tesco-pricing-and-profit-strategy/blob/main/consulting%20projects/Docs/Tesco%20Pricing%20and%20Profit%20Strategy.pptx)
   
 
